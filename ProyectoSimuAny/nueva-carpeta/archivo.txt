@@ -1,0 +1,33 @@
+Instrucciones para el Uso del Modelo de AnyLogic
+
+Este repositorio contiene un proyecto de simulación en AnyLogic. A continuación se detallan los pasos para configurarlo correctamente:
+
+Estructura del Proyecto
+
+    /model: Archivo principal .alp del modelo
+
+    /data: Datos de entrada (CSV, Excel) utilizados en la simulación
+
+    /docs: Documentación adicional (manuales, imágenes)
+
+    /exports: Resultados de simulaciones exportadas
+
+Configuración Inicial
+
+    Requisitos:
+
+        AnyLogic 8.9.4 o superior
+
+        Java JDK 11+ (si se usan funciones personalizadas)
+
+    Pasos:
+
+        Descargar/clonar el repositorio
+
+        Abrir el archivo .alp en AnyLogic
+
+        Verificar las rutas de archivos externos en Main > Parameters
+
+Ejecución
+
+    Simulación estándar: Ejecutar desde la ventana Main con Run
