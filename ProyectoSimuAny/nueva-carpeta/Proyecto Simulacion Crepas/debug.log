@@ -1,0 +1,19 @@
+[0626/141555.189:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0626/141557.255:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0626/141600.233:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0626/141601.173:INFO:CONSOLE(21172)] "THREE.WebGLRenderer 92", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.4.202503101134/static/build/three.js (21172)
+[0626/141601.914:INFO:CONSOLE(3660)] "THREE.ColladaLoader: File version 1.4.0", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.4.202503101134/static/libs/ColladaLoader.js (3660)
+[0626/141602.202:INFO:CONSOLE(255)] "Loaded: file:D:/Crepas3D-1/3d/rider.dae", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.4.202503101134/static/init.js (255)
+[0626/141602.202:INFO:CONSOLE(271)] "load end: file:D:/Crepas3D-1/3d/rider.dae", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.4.202503101134/static/init.js (271)
+[0626/141602.357:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0626/141610.241:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0626/141612.378:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0626/141630.311:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0626/141632.453:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0626/141756.481:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0626/142712.634:INFO:CONSOLE(3660)] "THREE.ColladaLoader: File version 1.4.0", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.4.202503101134/static/libs/ColladaLoader.js (3660)
+[0626/142712.915:INFO:CONSOLE(255)] "Loaded: file:D:/Crepas3D-1/3d/girl.dae", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.4.202503101134/static/init.js (255)
+[0626/142712.920:INFO:CONSOLE(271)] "load end: file:D:/Crepas3D-1/3d/girl.dae", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.4.202503101134/static/init.js (271)
+[0626/142713.484:INFO:CONSOLE(3660)] "THREE.ColladaLoader: File version 1.4.0", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.4.202503101134/static/libs/ColladaLoader.js (3660)
+[0626/142713.494:INFO:CONSOLE(255)] "Loaded: file:D:/Crepas3D-1/3d/sphere.dae", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.4.202503101134/static/init.js (255)
+[0626/142713.497:INFO:CONSOLE(271)] "load end: file:D:/Crepas3D-1/3d/sphere.dae", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.4.202503101134/static/init.js (271)

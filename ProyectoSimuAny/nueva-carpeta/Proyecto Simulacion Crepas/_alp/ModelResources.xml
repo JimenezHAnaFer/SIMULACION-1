@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModelResources>
+	<Resource>
+		<Id>1750647079757</Id>
+		<Path>3d/girl.dae</Path>
+		<ReferencedFromUserCode>false</ReferencedFromUserCode>
+		<Location>FILE_SYSTEM</Location>
+	</Resource>
+	<Resource>
+		<Id>1750649635209</Id>
+		<Path>3d/rider.dae</Path>
+		<ReferencedFromUserCode>false</ReferencedFromUserCode>
+		<Location>FILE_SYSTEM</Location>
+	</Resource>
+	<Resource>
+		<Id>1750656245183</Id>
+		<Path>3d/sphere.dae</Path>
+		<ReferencedFromUserCode>false</ReferencedFromUserCode>
+		<Location>FILE_SYSTEM</Location>
+	</Resource>
+</ModelResources>

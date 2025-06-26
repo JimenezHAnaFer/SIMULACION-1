@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Variables>
+	<Variable Class="Parameter">
+		<Id>1750656302356</Id>
+		<Name><![CDATA[Tiempopreparacion]]></Name>
+		<X>60</X>
+		<Y>50</Y>
+		<Label>
+			<X>10</X>
+			<Y>0</Y>
+		</Label>
+		<PublicFlag>false</PublicFlag>
+		<PresentationFlag>true</PresentationFlag>
+		<ShowLabel>true</ShowLabel>
+		<Properties SaveInSnapshot="true" ModificatorType="STATIC">
+			<Type/>
+			<UnitType>TIME</UnitType>
+			<UnitOfValue Class="TimeUnits">MINUTE</UnitOfValue>
+			<SdArray>false</SdArray>
+			<DefaultValue Class="CodeUnitValue">
+				<Code/>
+				<Unit Class="TimeUnits">MINUTE</Unit>
+			</DefaultValue>
+			<ParameterEditor>
+				<Id>1750656302354</Id>
+				<EditorContolType>UNIT_EDITOR</EditorContolType>
+				<MinSliderValue>0</MinSliderValue>
+				<MaxSliderValue>100</MaxSliderValue>
+				<DelimeterType>NO_DELIMETER</DelimeterType>
+			</ParameterEditor>
+		</Properties>
+	</Variable>
+</Variables>
